@@ -1,3 +1,4 @@
+![Movie 1](public/image1.png)
 
 ### **Description of the Movie Database Application**
 
