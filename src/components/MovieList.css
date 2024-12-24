@@ -1,0 +1,14 @@
+/* MovieList.css */
+.movie-list {
+    display: flex;
+    flex-wrap: wrap;
+    width: 100%;
+    /* background-color: aqua; */
+    height: 100%;
+    gap: 10px;
+}
+  
+  .movie-list a {
+    text-decoration: none;
+  }
+  
